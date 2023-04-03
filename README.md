@@ -1,6 +1,7 @@
 # Admisión 2023-II
-El proceso de admisión de la UNMSM es muy competitivo y difícil. La Universidad Nacional Mayor de San Marcos es una de las universidades más antiguas y prestigiosas del Perú, y es conocida por su alto nivel académico.
-En este proceso de admisión se presentaron ### y solo ingresaron los reultados los puedes ver  [aqui](https://admision.unmsm.edu.pe/WebsiteExa_25_26/)
+El Examen de admisión de la UNMSM es muy competitivo y difícil. Esta es la Universidad mas  antigua de america y prestigiosas del Perú,  es conocida por su alto nivel académico.
+En este proceso de admisión se presentaron ### y solo ingresaron ### los reultados los puedes ver  [aqui](https://admision.unmsm.edu.pe/WebsiteExa_20232/)
+
 ![examen de admision](https://wapa.cronosmedia.glr.pe/original/2023/03/26/6420b31d41b9c357060f5fc5.jpg)
 ## Requisitos
 
@@ -15,7 +16,8 @@ El proyecto esta guiado y documentado en el notebook ,las recomendaciones es que
 
 ## Autores
 - [Jhon Velasque](https://www.linkedin.com/in/jhon-velasque-228093211/) 
-ESTRUCTURA
+
+### ESTRUCTURA
 http://unmsm.claro.net.pe/WebSiteResultados/index.html
 Notas terminamos la tabla de areas 
 la tabla de carreas y areas
