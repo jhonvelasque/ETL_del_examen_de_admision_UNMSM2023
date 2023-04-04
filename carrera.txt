@@ -1,0 +1,81 @@
+Bloque A	Vacantes
+Medicina Humana	106
+Obstetricia	45
+Enfermería	46
+Laboratorio Clínico	19
+Terapia Física y Rehabilitación	18
+Radiología	19
+Terapia Ocupacional	18
+Nutrición	25
+Farmacia y Bioquímica	25
+Ciencias de los Alimentos	10
+Toxicología	12
+Odontología	25
+Medicina Veterinaria	20
+Psicología	48
+Psicología Organizacional y de la Gestión Humana	22
+
+Bloque B	Vacantes
+Química	29
+Ciencias Biológicas	30
+Genética y Biotecnología	22
+Microbiología y Parasitología	19
+Física	47
+Matemática	60
+Estadística	50
+Investigación Operativa	50
+Computación Científica	50
+
+Bloque C	Vacantes
+Ingeniería Química	39
+Ingeniería Agroindustrial	35
+Ingeniería Mecánica de Fluidos	68
+Ingeniería Geológica	21
+Ingeniería Geográfica	21
+Ingeniería de Minas	17
+Ingeniería Metalúrgica	15
+Ingeniería Civil	25
+Ingeniería Ambiental	15
+Ingeniería Industrial	73
+Ingeniería Textil y Confecciones	25
+Ingeniería de Seguridad y Salud en el Trabajo	20
+Ingeniería Electrónica	43
+Ingeniería Eléctrica	40
+Ingeniería de Telecomunicaciones	25
+Ingeniería Biomédica	19
+Ingeniería de Sistemas	64
+Ingeniería de Software	50
+
+Bloque D	Vacantes
+Administración	86
+Administración de Turismo	48
+Administración de Negocios Internacionales	47
+Contabilidad	140
+Gestión Tributaria	72
+Auditoría Empresarial y del Sector Público	72
+Presupuesto y Finanzas Públicas	85
+Economía	57
+Economía Pública	65
+Economía Internacional	64
+
+Bloque E	Vacantes
+Derecho	134
+Ciencia Política	52
+Literatura	18
+Filosofía	23
+Lingüística	22
+Comunicación Social	30
+Arte	17
+Bibliotecología y Ciencias de la Información	10
+Danza	7
+Conservación y Restauración	20
+Educación Inicial	13
+Educación Primaria	13
+Educación Secundaria	60
+Educación Física	75
+Historia	18
+Sociología	25
+Antropología	24
+Arqueología	16
+Trabajo Social	36
+Geografía	27
