@@ -19,11 +19,17 @@ El proyecto esta guiado y documentado en el notebook ,las recomendaciones es que
 
 ### ESTRUCTURA
 http://unmsm.claro.net.pe/WebSiteResultados/index.html
-Notas terminamos la tabla de areas 
-la tabla de carreas y areas
-- falta terminar el mergue carera codigode escuela
-- ya estariamos para el analisis exploratorio 
-web que tiene los resultados
-https://profe-alexz.blogspot.com/2015/09/resultados-examen-san-marcos-2016-domingo-20-septiembre.html
-prom que me esta funcionando
-resultados examen de admision de san marcos 2016alcanzo vacante
+### Connclusiones
+
+
+--- 
+- Pendientes 
+  - falata arreglar el error de la tabla auxiliar que que no tiene todas la carreras
+  - hacer una funcion para infutar los valores faltantes por meritos
+  -Analisis Exploratorioa
+    - top 5 carreras con mayor puntaje
+    - su distribucion de las carreras con mayor puntaje
+    - analisis de distribucion con boxplot de las carreras
+    - el puntaje promedio por area
+    - el puntaje promedio por area de los ingresantes
+
