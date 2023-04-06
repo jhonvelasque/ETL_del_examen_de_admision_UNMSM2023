@@ -1,6 +1,6 @@
 # Admisión 2023-II
 El Examen de admisión de la UNMSM es muy competitivo y difícil. Esta es la Universidad mas  antigua de america y prestigiosas del Perú,  es conocida por su alto nivel académico.
-En este proceso de admisión se presentaron ### y solo ingresaron ### los reultados los puedes ver  [aqui](https://admision.unmsm.edu.pe/WebsiteExa_20232/)
+En este proceso de admisión se presentaron 25832 y solo ingresaron ### los reultados los puedes ver  [aqui](https://admision.unmsm.edu.pe/WebsiteExa_20232/)
 
 ![examen de admision](https://wapa.cronosmedia.glr.pe/original/2023/03/26/6420b31d41b9c357060f5fc5.jpg)
 ## Requisitos
@@ -24,10 +24,8 @@ http://unmsm.claro.net.pe/WebSiteResultados/index.html
 
 --- 
 - Pendientes 
-  - falata arreglar el error de la tabla auxiliar que que no tiene todas la carreras
-  - hacer una funcion para infutar los valores faltantes por meritos
   -Analisis Exploratorioa
-    - top 5 carreras con mayor puntaje
+    - top 5 carreras con mayor postulantes
     - su distribucion de las carreras con mayor puntaje
     - analisis de distribucion con boxplot de las carreras
     - el puntaje promedio por area
