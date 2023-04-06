@@ -15,19 +15,38 @@ pip install requierements.txt
 El proyecto esta guiado y documentado en el notebook ,las recomendaciones es que el enlace de los resultado de admisión caducan cada cierto tiempo , si lo quieres usar para analizar solo tienes que cambiar el url y el codigo seria el mismo.
 
 ## Autores
-- [Jhon Velasque](https://www.linkedin.com/in/jhon-velasque-228093211/) 
+- [Jhon Velasque](https://www.linkedin.com/in/jhon-velasque-228093211/) (Data engineer)
+
 
 ### ESTRUCTURA
-http://unmsm.claro.net.pe/WebSiteResultados/index.html
-### Connclusiones
+- Web scraping de la wed de la UNMSM
+- Normalizacion de los datos optenidos
+- Analisis exploratorio de los datos 
 
+  ![estructura](./picture/estructuta.jpg)
+### ANALISIS EXPLORATORIO
 
 --- 
-- Pendientes 
+- Actividades
   -Analisis Exploratorioa
     - top 5 carreras con mayor postulantes
     - su distribucion de las carreras con mayor puntaje
     - analisis de distribucion con boxplot de las carreras
     - el puntaje promedio por area
     - el puntaje promedio por area de los ingresantes
+### CONCLUSIONES
+--- 
+- la carrera con mayor puntuje en este proceso de admision 2023 fue derecho con 1556.375	.
+- las carreras conmayor puntaje fueron derecho ,economia,comunicación social ,medicina humana ,genética .
 
+- el puntaje promedio de los ingresantes es de 879.34.
+
+- las carrreras con mayor demanda no necesariamente son las carreras con mayor puntaje de ingreso.
+
+- El area A ('ciencias de salud') tiene el mayor puntaje promedio .  
+
+### RECOMENDACIONES
+---
+- Un postulante a medicina tendria que tener un puntaje de 1150 para que tenga mas probabilidades de ingreso.
+
+- el postulante actualmente tiene la posibilidad de elegir cursos que tengan mas impacto en su respectiva area ya que solo necesita tesponder el 50% del examen correcto para ingresar
