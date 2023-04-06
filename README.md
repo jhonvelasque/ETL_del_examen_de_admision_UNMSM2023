@@ -36,12 +36,12 @@ El proyecto esta guiado y documentado en el notebook ,las recomendaciones es que
     - el puntaje promedio por area de los ingresantes
 ### CONCLUSIONES
 --- 
-- la carrera con mayor puntuje en este proceso de admision 2023 fue derecho con 1556.375	.
-- las carreras conmayor puntaje fueron derecho ,economia,comunicación social ,medicina humana ,genética .
+- La carrera con mayor puntuje en este proceso de admision 2023 fue derecho con 1556.375	.
+- Las carreras conmayor puntaje fueron derecho ,economia,comunicación social ,medicina humana ,genética .
 
-- el puntaje promedio de los ingresantes es de 879.34.
+- El puntaje promedio de los ingresantes es de 879.34.
 
-- las carrreras con mayor demanda no necesariamente son las carreras con mayor puntaje de ingreso.
+- Las carrreras con mayor demanda no necesariamente son las carreras con mayor puntaje de ingreso.
 
 - El area A ('ciencias de salud') tiene el mayor puntaje promedio .  
 
@@ -49,4 +49,4 @@ El proyecto esta guiado y documentado en el notebook ,las recomendaciones es que
 ---
 - Un postulante a medicina tendria que tener un puntaje de 1150 para que tenga mas probabilidades de ingreso.
 
-- el postulante actualmente tiene la posibilidad de elegir cursos que tengan mas impacto en su respectiva area ya que solo necesita tesponder el 50% del examen correcto para ingresar
+- El postulante actualmente tiene la posibilidad de elegir cursos que tengan mas impacto en su respectiva area ya que solo necesita tesponder el 50% del examen correcto para ingresar
