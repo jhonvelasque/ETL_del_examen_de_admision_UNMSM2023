@@ -1,0 +1,87 @@
+﻿Area;CÓdigos;Escuela Profesional;EBR y EBA*;CODIGO
+A;01.1.;Medicina Humana;55;011
+A;01.2.;Obstetricia;44;012
+A;01.3.;Enfermería;46;013
+A;01.4.;Tecnología Médica;-;014
+A;01.4.1;Área: Laboratorio Clínico y Anatomia PatolÓgica;17;0141
+A;01.4.2;Área: Terapia Física y RehabilitaciÓn;17;0142
+A;01.4.3;Área: Radiología;17;0143
+A;01.4.4;Área: Terapia Ocupacional;17;0144
+A;01.5.;NutriciÓn;24;015
+A;04.1.;Farmacia y Bioquímica;25;041
+A;04.2.;Ciencias de los Alimentos;10;042
+A;04.3.;Toxicología;11;043
+A;05.1.;Odontología;25;051
+A;08.1.;Medicina Veterinaria;20;081
+A;18.1;Psicología;48;181
+A;18.2;Psicología Organizacional y de la GestiÓn Humana;21;182
+B;07.1.;Química;28;071
+B;10.1;Ciencias BiolÓgicas;30;101
+B;10.2;Genética y Biotecnología;21;102
+B;10.3;Microbiología y Parasitología;19;103
+B;13.1;Física;23;131
+B;14.1;Matemática;60;141
+B;14.2;Estadística;50;142
+B;14.4;InvestigaciÓn Operativa;50;144
+B;14.5;ComputaciÓn Científica;50;145
+C;07.2.;Ingeniería Química;39;072
+C;07.3.;Ingeniería Agroindustrial;35;073
+C;13.2;Ingeniería Mecánica de Fluidos;30;132
+C;16.2;Ingeniería GeolÓgica;20;162
+C;16.3;Ingeniería Geográfica;21;163
+C;16.5;Ingeniería de Minas;18;165
+C;16.6;Ingeniería Metalú rgica;15;166
+C;16.7;Ingeniería Civil;25;167
+C;16.8;Ingeniería Ambiental;15;168
+C;17.1;Ingeniería Industrial;73;171
+C;17.2;INGENIERÍA TEXTIL Y CONFECCIONES;26;172
+C;17.3;Ingeniería de Seguridad y Salud en el Trabajo;19;173
+C;19.1;Ingeniería ElectrÓnica;43;191
+C;19.2;Ingeniería Eléctrica;20;192
+C;19.3;Ingeniería de Telecomunicaciones;25;193
+C;19.4;Ingeniería Biomédica;18;194
+C;20.1;Ingeniería de Sistemas;43;201
+C;20.2;Ingeniería de Software;25;202
+C;20.3;Ciencia de la ComputaciÓn;10;203
+D;;;Lima;
+D;09.1.;AdministraciÓn - Lima;86;091
+D;09.1.;AdministraciÓn - S.J.L;10;091
+D;09.1.;AdministraciÓn - Huaral;10;091
+D;09.2.;AdministraciÓn de Turismo - Lima;45;092
+D;09.2.;AdministraciÓn de Turismo - S.J.L;10;092
+D;09.2.;AdministraciÓn de Turismo - Huaral;10;092
+D;09.3.;AdministraciÓn de Negocios Internacionales - Lima;47;093
+D;09.3.;AdministraciÓn de Negocios Internacionales - S.J.L;8;093
+D;09.3.;AdministraciÓn de Negocios Internacionales - Huaral;8;093
+D;11.1.;Contabilidad - Lima;101;111
+D;11.1.;Contabilidad - S.J.L;20;111
+D;11.2.;GestiÓn Tributaria - Lima;36;112
+D;11.2.;GestiÓn Tributaria - S.J.L;20;112
+D;11.3.;Auditoría Empresarial y del Sector Público - Lima;36;113
+D;11.3.;Auditoría Empresarial y del Sector Público - S.J.L;20;113
+D;11.4.;Presupuesto y Finanzas Públicas - Lima;40;114
+D;11.4.;Presupuesto y Finanzas Públicas - S.J.L;20;114
+D;12.1.;Economía;66;121
+D;12.2.;Economía Pública;64;122
+D;12.3.;Economía Internacional;64;123
+E;02.2.;Derecho;134;022
+E;02.3.;Ciencia Política;51;023
+E;03.1.;Literatura;17;031
+E;03.3.;Filosofía;15;033
+E;03.4.;Lingüística;16;034
+E;03.5.;ComunicaciÓn Social;22;035
+E;03.6.;Arte;17;036
+E;03.7.;Bibliotecología y Ciencias de la InformaciÓn;15;037
+E;03.8.;Danza;2;038
+E;03.9.;ConservaciÓn y RestauraciÓn;16;039
+E;06.1.;EducaciÓn en;;061
+E;06.1.1.;EducaciÓn Inicial;12;0611
+E;06.1.2.;EducaciÓn Primaria;12;0612
+E;06.1.3.;EducaciÓn Secundaría;60;0613
+E;06.2.;EducaciÓn Física;75;062
+E;15.1;Historia;18;151
+E;15.2;Sociología;22;152
+E;15.3;Antropología;21;153
+E;15.4;Arqueología;18;154
+E;15.5;Trabajo Social;37;155
+E;15.7;Geografía;24;157

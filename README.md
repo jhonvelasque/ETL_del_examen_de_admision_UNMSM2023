@@ -50,3 +50,7 @@ El proyecto esta guiado y documentado en el notebook ,las recomendaciones es que
 - Un postulante a medicina tendria que tener un puntaje de 1150 para que tenga mas probabilidades de ingreso.
 
 - El postulante actualmente tiene la posibilidad de elegir cursos que tengan mas impacto en su respectiva area ya que solo necesita tesponder el 50% del examen correcto para ingresar
+
+- Esta linea fue crada por vim
+
+- creando codigo 
